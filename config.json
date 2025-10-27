@@ -13,7 +13,7 @@
   "social": {
     "linkedin": "https://linkedin.com/in/dave-green-uk",
     "bluesky": "https://bsky.app/profile/dave-green-uk.bsky.social",
-    "github": "https://github.com/98percentoats/"
+    "github": "https://github.com/dave-green-uk/"
   },
   "links": [
     {
@@ -29,6 +29,6 @@
       "url": "https://orderable.com"
     }
   ],
-  "theme": "dark",
-  "gravatarHovercard": true
+  "theme": "bright",
+  "gravatarHovercard": false
 } 
