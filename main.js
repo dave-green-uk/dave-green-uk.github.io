@@ -111,21 +111,25 @@ async function initializeContent() {
 
     // Set support button
     const supportBtn = document.getElementById('support-button');
-    if (config.support && config.support.url && config.support.buttonText) {
-      supportBtn.href = config.support.url;
-      supportBtn.textContent = config.support.buttonText;
-      supportBtn.ariaLabel = config.support.buttonText;
+    if ( supportBtn) {
+      if (config.support && config.support.url && config.support.buttonText) {
+        supportBtn.href = config.support.url;
+        supportBtn.textContent = config.support.buttonText;
+        supportBtn.ariaLabel = config.support.buttonText;
+      }
     }
 
     // Set contact button (footer) using config.contact only
     const contactBtn = document.getElementById('contact-button');
-    if (config.contact && config.contact.url && config.contact.buttonText) {
-      contactBtn.href = config.contact.url;
-      contactBtn.textContent = config.contact.buttonText;
-      contactBtn.ariaLabel = config.contact.buttonText;
-      contactBtn.style.display = '';
-    } else {
-      contactBtn.style.display = 'none';
+    if (contactBtn) {
+      if (config.contact && config.contact.url && config.contact.buttonText) {
+        contactBtn.href = config.contact.url;
+        contactBtn.textContent = config.contact.buttonText;
+        contactBtn.ariaLabel = config.contact.buttonText;
+        contactBtn.style.display = '';
+      } else {
+        contactBtn.style.display = 'none';
+      }
     }
   } catch (error) {
     console.error('Error loading configuration:', error);
