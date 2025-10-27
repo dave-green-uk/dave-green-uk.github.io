@@ -1,54 +1,34 @@
 {
   "profile": {
-    "name": "Matt Cromwell",
+    "name": "Dave Green",
     "tagline": "Helping WordPress professionals build better businesses",
-    "gravatarEmail": "matt@wpproducttalk.com",
+    "gravatarEmail": "hello@davegreen.email",
     "bio": [
-      "I help product businesses turn customer insight into better experiences that keep people renewing year after year.",
-      "I co-founded GiveWP, growing it into the leading online donations platform for WordPress. After its acquisition by StellarWP, I became Senior Director of Customer Experience, scaling those same data-driven systems across flagship brands like LearnDash, KadenceWP, and The Events Calendar.",
-      "Beyond my formal roles, I co-host WP Product Talk, a weekly show where WordPress founders share what works (and what doesn't) in growing sustainable products. I've also spoken at WordCamps and CloudFest EU, helping teams connect customer experience with product strategy so every decision moves the business forward.",
-      "Over a decade in customer experience and product growth, my focus hasn't changed: connect what customers feel with how teams build — and turn that alignment into meaningful, measurable growth."
+      "I've spent the past 15 years in web and product development, focused on WordPress and WooCommerce, building and overseeing the delivery of everything from bespoke websites and integrations to custom plugins and impactful product features.",
+      "After over a decade in the agency world, I moved into product development—first as a product engineer, and now as a product owner—where I combine technical insight with strategic execution, translating user needs into actionable product stories and delivering product roadmaps that achieve business goals.",
+      "My experience in development and support means I’m comfortable diving into technical details when needed — triaging new issues, conducting QA, and supporting smooth feature and maintenance releases — while maintaining focus on broader product strategy.",
+      "I'm passionate about helping teams deliver results by removing blockers, accelerating progress, and turning strategy into action. Pragmatic, adaptable, and a strong cross-team communicator, I thrive in environments where initiative and continuous improvement matter."
     ]
   },
   "social": {
-    "linkedin": "https://linkedin.com/in/mattcromwell",
-    "x": "https://x.com/learnwithmattc",
-    "wordpress": "https://profiles.wordpress.org/webdevmattcrom/",
-    "youtube": "https://youtube.com/@wpproducttalk",
-    "github": "https://github.com/mathetos/",
-    "bluesky": "https://bsky.app/profile/mattcromwell.bsky.social",
-    "email": "https://mattcromwell.com/contact"
+    "linkedin": "https://linkedin.com/in/dave-green-uk",
+    "bluesky": "https://bsky.app/profile/dave-green-uk.bsky.social",
+    "github": "https://github.com/98percentoats/"
   },
   "links": [
     {
-      "title": "WP Product Talk Podcast",
-      "url": "https://wpproducttalk.com"
+      "title": "SolidWP",
+      "url": "https://solidwp.com"
     },
     {
-      "title": "StellarWP",
-      "url": "https://stellarwp.com"
+      "title": "Iconic",
+      "url": "https://iconicwp.com"
     },
     {
-      "title": "GiveWP",
-      "url": "https://givewp.com"
-    },
-    {
-      "title": "My Writing",
-      "url": "https://mattcromwell.com"
+      "title": "Orderable",
+      "url": "https://orderable.com"
     }
   ],
-  "blog": {
-    "rssFeed": "https://www.mattcromwell.com/feed/",
-    "wordCount": 75
-  },
-  "support": {
-    "buttonText": "Buy Me a Coffee ☕️",
-    "url": "https://www.buymeacoffee.com/mattcromwell"
-  },
-  "contact": {
-    "buttonText": "Contact Me ✉️",
-    "url": "https://mattcromwell.com/contact"
-  },
   "theme": "dark",
   "gravatarHovercard": true
 } 
