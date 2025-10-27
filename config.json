@@ -33,6 +33,18 @@
       "url": "https://orderable.com"
     }
   ],
+ "blog": {
+    "rssFeed": "",
+    "wordCount": 75
+  },
+  "support": {
+    "buttonText": "",
+    "url": ""
+  },
+  "contact": {
+    "buttonText": "",
+    "url": ""
+  },
   "theme": "bright",
   "gravatarHovercard": false
 } 
