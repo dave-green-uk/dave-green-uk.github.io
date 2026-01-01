@@ -1,0 +1,12 @@
+baseURL = 'https://davegreen.website/'
+languageCode = 'en-us'
+title = "Dave Green's Journal"
+theme = 'ritzy'
+
+[params]
+  author = "Dave Green"
+  description = "Occasional musings on life, work, and the world we live in."
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
