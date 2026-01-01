@@ -1,1 +1,1 @@
-hello [at] davegreen [dot] email
+hello [at] davegreen [dot] email / [LinkedIn](https://www.linkedin.com/in/dave-green-uk/)
